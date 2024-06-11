@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+The purpose is to test the Python script.
+Have a great day!
